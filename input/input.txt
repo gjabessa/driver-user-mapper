@@ -1,0 +1,11 @@
+This is a test file.
+This is a test file for Spark word count program.
+Word count program is a Hello World for Spark.
+Java mapReduce Java mapReduce Java mapReduce Java mapReduce Java mapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce
+Java mapReduce Java mapReduce Java mapReduce Java mapReduce Java mapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce
+Java mapReduce Java mapReduce Java mapReduce Java mapReduce Java mapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce
+Java mapReduce Java mapReduce Java mapReduce Java mapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce
+Java mapReduce Java mapReduce Java MapReduce Java mapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce Java MapReduce
+mapReduce mapReduce mapReduce mapReduce MapReduce
+mapReduce mapReduce mapReduce mapReduce MapReduce
+mapReduce mapReduce mapReduce mapReduce MapReduce
