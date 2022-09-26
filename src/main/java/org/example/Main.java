@@ -73,7 +73,7 @@ public class Main
                 }
                 String drivers = driverRdd.collect().get(0)._2;
 
-                JavaPairRDD<String, String> counts = rdd.filter(a -> !a._1.equals("driver")).mapToPair(a -> {
+                JavaPairRDD<String, String> counts = rdd.filter(a -> !a._1.contains("driver")).mapToPair(a -> {
 
                         return new Tuple2<>(a._2,getNearestDriver(drivers,Double.valueOf(a._2.split(" ")[1]),Double.valueOf(a._2.split(" ")[2])));
                 });
